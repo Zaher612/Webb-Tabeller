@@ -1,0 +1,15 @@
+table,tr,td{border: 1px solid black;
+border-collapse: collapse;}
+
+td{width: 200px;}
+td{height: 150px;}
+td{color: white;}
+
+.Yellow{background-color: yellow;}
+.Blue{background-color: blue;}
+.Black{background-color: black;}
+.Green{background-color: green;}
+.Red{background-color: red;}
+
+
+
