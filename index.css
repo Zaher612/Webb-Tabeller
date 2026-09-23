@@ -14,7 +14,7 @@ td,th:nth-child(4){text-align: right;}
 ;}
 
 tr:nth-child(2){background-color: brown; color: bisque;}
-tr:nth-child(3){background-color: cadetblue; color: blanchedalmond;}
+tr:nth-child(3){background-color: cadetblue; color: black;}
 tr:nth-child(4){background-color: brown; color: bisque;}
-tr:nth-child(5){background-color: cadetblue; color: blanchedalmond;}
+tr:nth-child(5){background-color: cadetblue; color: black;}
 
